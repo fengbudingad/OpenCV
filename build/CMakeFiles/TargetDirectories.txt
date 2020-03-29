@@ -1,3 +1,0 @@
-/home/fengbuding/桌面/opencv_demo/HighGUI/build/CMakeFiles/rebuild_cache.dir
-/home/fengbuding/桌面/opencv_demo/HighGUI/build/CMakeFiles/opencv_demo.dir
-/home/fengbuding/桌面/opencv_demo/HighGUI/build/CMakeFiles/edit_cache.dir
